@@ -23,6 +23,7 @@ Use the supplied data as the source of data to answer the questions.  Copy the S
 ## Questions
 
 1. Return ALL the data in the 'movies' table.
+
 2. Return ONLY the name column from the 'people' table
 3.Oops! Someone at CodeClan spelled Davina's name wrong! Change it to reflect the proper spelling (change 'Davinda Sanders' to 'Davina Sanders').
 4. Return ONLY your name from the 'people' table.
